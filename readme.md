@@ -70,23 +70,4 @@ js-object-manipulation/
 └── readme.md
 ```
 
----
-
-# 🚀 Final Step
-
-1. Run `node sculptureScript.js`  
-2. Copy the full JSON output  
-3. Paste it into the README where instructed  
-4. Commit + push to GitHub  
-5. Submit PDF with repo link
-
-You will get **30/30** with this version.
-
----
-
-If you'd like, I can:
-
-- ✅ generate the full README including your real output  
-- ✅ generate your PDF for Canvas submission  
-
-Just run your script and paste the output here.
+-
